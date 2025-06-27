@@ -1,6 +1,6 @@
 # Book API
 
-A simple REST API endpoints : GET, POST, PUT, DELETE to manage a list of books using Node.js and Express.  
+A simple REST API endpoints (GET, POST, PUT, DELETE) to manage a list of books using Node.js and Express.  
 This project supports basic CRUD operations (Create, Read, Update, Delete), with data stored in memory (no database used).
 
 ---
